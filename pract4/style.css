@@ -1,0 +1,36 @@
+h1#Encabezado{
+    position: relative;
+    text-align: center;
+    border: black 1px solid;
+}
+
+body{
+    background-color: pink;
+    color:brown ;
+}
+
+h1.Encabezado2{
+    position: relative;
+    text-align: center;
+}
+
+.enlace{
+    position: relative;
+    top: 100px;
+}
+.enlace2{
+    position: relative;
+    top: 200px;
+}
+
+p.contacto{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+}
+
+h1.Encabezado3{
+    position: relative;
+    text-align: center;
+    font-size: 60px;
+}
